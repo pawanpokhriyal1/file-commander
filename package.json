@@ -1,0 +1,19 @@
+{
+  "name": "file-commander",
+  "version": "1.0.0",
+  "description": "file command hadler application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawanpokhriyal1/file-commander.git"
+  },
+  "author": "Pawan Pokhriyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawanpokhriyal1/file-commander/issues"
+  },
+  "homepage": "https://github.com/pawanpokhriyal1/file-commander#readme"
+}
